@@ -1,9 +1,7 @@
  <h1 align="center">Hi 👋, I'm Shubham Pawar</h1>
-<h3 align="center">A Passionate Data Science</h3>
-
+<h3 align="center">A Passionate Data Scientist</h3>
+<img align="centre" alt="coding" width="900" src="https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1520038030/data_bhpeyq">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham07-pawar&label=Profile%20views&color=0e75b6&style=flat" alt="shubham07-pawar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham07-pawar" alt="shubham07-pawar" /></a> </p>
 
 - 💬 Ask me about **Python, Data Science and ML**
 
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham07-pawar&show_icons=true&locale=en" alt="shubham07-pawar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham07-pawar&" alt="shubham07-pawar" /></p>
+
